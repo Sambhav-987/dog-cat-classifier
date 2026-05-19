@@ -1,3 +1,15 @@
-# dog-cat-classifier
-Predicts Cat or Dog when image is given
-Built using TensorFlow and Streamlit
+# Dog vs Cat Classifier
+
+A deep learning web application that classifies images as dogs or cats using TensorFlow/Keras and Streamlit.
+
+## Features
+- Image Upload
+- Real-time Prediction
+- CNN/Transfer Learning Model
+- Streamlit Web Interface
+
+## Technologies Used
+- Python
+- TensorFlow
+- Keras
+- Streamlit
